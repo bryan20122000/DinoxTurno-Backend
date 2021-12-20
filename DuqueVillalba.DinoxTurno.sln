@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{32268FBB-707E-427B-8014-5E6B1DAF57EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{647FD9B9-22A6-41BC-AADB-5D35718BA198}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{DD790AE8-214D-45DB-8463-5C94D7B02B36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuqueVillalba.DinoxTurno.Api", "DuqueVillalba.DinoxTurno.Api\DuqueVillalba.DinoxTurno.Api.csproj", "{9807D71B-3AD6-4092-AA05-A2B761CEC96A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuqueVillalba.DinoxTurno.Core", "DuqueVillalba.DinoxTurno.Core\DuqueVillalba.DinoxTurno.Core.csproj", "{89A52167-3A59-45BF-8D6D-AF62D15C813D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuqueVillalba.DinoxTurno.Infrastructure", "DuqueVillalba.DinoxTurno.Infrastructure\DuqueVillalba.DinoxTurno.Infrastructure.csproj", "{F77099FA-A07A-48A5-B904-84CF34DA3CE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9807D71B-3AD6-4092-AA05-A2B761CEC96A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9807D71B-3AD6-4092-AA05-A2B761CEC96A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9807D71B-3AD6-4092-AA05-A2B761CEC96A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9807D71B-3AD6-4092-AA05-A2B761CEC96A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89A52167-3A59-45BF-8D6D-AF62D15C813D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A52167-3A59-45BF-8D6D-AF62D15C813D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A52167-3A59-45BF-8D6D-AF62D15C813D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A52167-3A59-45BF-8D6D-AF62D15C813D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F77099FA-A07A-48A5-B904-84CF34DA3CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F77099FA-A07A-48A5-B904-84CF34DA3CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F77099FA-A07A-48A5-B904-84CF34DA3CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F77099FA-A07A-48A5-B904-84CF34DA3CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9807D71B-3AD6-4092-AA05-A2B761CEC96A} = {32268FBB-707E-427B-8014-5E6B1DAF57EE}
+		{89A52167-3A59-45BF-8D6D-AF62D15C813D} = {DD790AE8-214D-45DB-8463-5C94D7B02B36}
+		{F77099FA-A07A-48A5-B904-84CF34DA3CE4} = {647FD9B9-22A6-41BC-AADB-5D35718BA198}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9370BAA7-1C36-47C5-BF69-ECD0EDA36CA5}
+	EndGlobalSection
+EndGlobal

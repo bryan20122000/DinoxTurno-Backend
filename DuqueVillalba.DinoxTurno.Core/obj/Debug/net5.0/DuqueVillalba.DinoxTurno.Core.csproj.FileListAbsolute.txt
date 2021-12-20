@@ -1,0 +1,23 @@
+C:\Users\NestorJulioCalderonR\source\repos\DuqueVillalba.DinoxTurno\DuqueVillalba.DinoxTurno.Core\bin\Debug\net5.0\DuqueVillalba.DinoxTurno.Core.deps.json
+C:\Users\NestorJulioCalderonR\source\repos\DuqueVillalba.DinoxTurno\DuqueVillalba.DinoxTurno.Core\bin\Debug\net5.0\DuqueVillalba.DinoxTurno.Core.dll
+C:\Users\NestorJulioCalderonR\source\repos\DuqueVillalba.DinoxTurno\DuqueVillalba.DinoxTurno.Core\bin\Debug\net5.0\ref\DuqueVillalba.DinoxTurno.Core.dll
+C:\Users\NestorJulioCalderonR\source\repos\DuqueVillalba.DinoxTurno\DuqueVillalba.DinoxTurno.Core\bin\Debug\net5.0\DuqueVillalba.DinoxTurno.Core.pdb
+C:\Users\NestorJulioCalderonR\source\repos\DuqueVillalba.DinoxTurno\DuqueVillalba.DinoxTurno.Core\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NestorJulioCalderonR\source\repos\DuqueVillalba.DinoxTurno\DuqueVillalba.DinoxTurno.Core\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Core.AssemblyInfoInputs.cache
+C:\Users\NestorJulioCalderonR\source\repos\DuqueVillalba.DinoxTurno\DuqueVillalba.DinoxTurno.Core\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Core.AssemblyInfo.cs
+C:\Users\NestorJulioCalderonR\source\repos\DuqueVillalba.DinoxTurno\DuqueVillalba.DinoxTurno.Core\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Core.csproj.CoreCompileInputs.cache
+C:\Users\NestorJulioCalderonR\source\repos\DuqueVillalba.DinoxTurno\DuqueVillalba.DinoxTurno.Core\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Core.dll
+C:\Users\NestorJulioCalderonR\source\repos\DuqueVillalba.DinoxTurno\DuqueVillalba.DinoxTurno.Core\obj\Debug\net5.0\ref\DuqueVillalba.DinoxTurno.Core.dll
+C:\Users\NestorJulioCalderonR\source\repos\DuqueVillalba.DinoxTurno\DuqueVillalba.DinoxTurno.Core\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Core.pdb
+C:\Users\Bryan Cc\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Core\bin\Debug\net5.0\DuqueVillalba.DinoxTurno.Core.deps.json
+C:\Users\Bryan Cc\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Core\bin\Debug\net5.0\DuqueVillalba.DinoxTurno.Core.dll
+C:\Users\Bryan Cc\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Core\bin\Debug\net5.0\ref\DuqueVillalba.DinoxTurno.Core.dll
+C:\Users\Bryan Cc\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Core\bin\Debug\net5.0\DuqueVillalba.DinoxTurno.Core.pdb
+C:\Users\Bryan Cc\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Core\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Core.csproj.AssemblyReference.cache
+C:\Users\Bryan Cc\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Core\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan Cc\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Core\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Core.AssemblyInfoInputs.cache
+C:\Users\Bryan Cc\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Core\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Core.AssemblyInfo.cs
+C:\Users\Bryan Cc\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Core\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Core.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Cc\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Core\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Core.dll
+C:\Users\Bryan Cc\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Core\obj\Debug\net5.0\ref\DuqueVillalba.DinoxTurno.Core.dll
+C:\Users\Bryan Cc\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Core\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Core.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DuqueVillalba.DinoxTurno.Infrastructure/1.0.0": {
+        "runtime": {
+          "DuqueVillalba.DinoxTurno.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DuqueVillalba.DinoxTurno.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

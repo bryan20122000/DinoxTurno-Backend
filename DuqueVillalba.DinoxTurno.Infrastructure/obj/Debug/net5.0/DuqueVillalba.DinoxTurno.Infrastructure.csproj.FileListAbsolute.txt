@@ -1,0 +1,12 @@
+C:\Users\NestorJulioCalderonR\source\repos\DuqueVillalba.DinoxTurno\DuqueVillalba.DinoxTurno.Infrastructure\bin\Debug\net5.0\DuqueVillalba.DinoxTurno.Infrastructure.deps.json
+C:\Users\NestorJulioCalderonR\source\repos\DuqueVillalba.DinoxTurno\DuqueVillalba.DinoxTurno.Infrastructure\bin\Debug\net5.0\DuqueVillalba.DinoxTurno.Infrastructure.dll
+C:\Users\NestorJulioCalderonR\source\repos\DuqueVillalba.DinoxTurno\DuqueVillalba.DinoxTurno.Infrastructure\bin\Debug\net5.0\ref\DuqueVillalba.DinoxTurno.Infrastructure.dll
+C:\Users\NestorJulioCalderonR\source\repos\DuqueVillalba.DinoxTurno\DuqueVillalba.DinoxTurno.Infrastructure\bin\Debug\net5.0\DuqueVillalba.DinoxTurno.Infrastructure.pdb
+C:\Users\NestorJulioCalderonR\source\repos\DuqueVillalba.DinoxTurno\DuqueVillalba.DinoxTurno.Infrastructure\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\NestorJulioCalderonR\source\repos\DuqueVillalba.DinoxTurno\DuqueVillalba.DinoxTurno.Infrastructure\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NestorJulioCalderonR\source\repos\DuqueVillalba.DinoxTurno\DuqueVillalba.DinoxTurno.Infrastructure\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\NestorJulioCalderonR\source\repos\DuqueVillalba.DinoxTurno\DuqueVillalba.DinoxTurno.Infrastructure\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Infrastructure.AssemblyInfo.cs
+C:\Users\NestorJulioCalderonR\source\repos\DuqueVillalba.DinoxTurno\DuqueVillalba.DinoxTurno.Infrastructure\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\NestorJulioCalderonR\source\repos\DuqueVillalba.DinoxTurno\DuqueVillalba.DinoxTurno.Infrastructure\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Infrastructure.dll
+C:\Users\NestorJulioCalderonR\source\repos\DuqueVillalba.DinoxTurno\DuqueVillalba.DinoxTurno.Infrastructure\obj\Debug\net5.0\ref\DuqueVillalba.DinoxTurno.Infrastructure.dll
+C:\Users\NestorJulioCalderonR\source\repos\DuqueVillalba.DinoxTurno\DuqueVillalba.DinoxTurno.Infrastructure\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Infrastructure.pdb

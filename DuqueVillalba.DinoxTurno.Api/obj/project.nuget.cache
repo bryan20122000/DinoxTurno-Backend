@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "5vUqx3rSTf4x86IcrPleycG7CcM36kSQAD2M4YCobAUx7ipDn8b/L5IZaDpa6saOTNF/oLHVTBbQcc/p41TqtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bryan Cc\\Source\\Repos\\DinoxTurno-Backend\\DuqueVillalba.DinoxTurno.Api\\DuqueVillalba.DinoxTurno.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bryan Cc\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Bryan Cc\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Bryan Cc\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Bryan Cc\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Bryan Cc\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Bryan Cc\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
