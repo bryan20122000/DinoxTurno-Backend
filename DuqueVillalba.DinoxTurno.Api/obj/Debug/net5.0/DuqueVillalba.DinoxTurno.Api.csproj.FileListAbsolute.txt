@@ -60,3 +60,42 @@ C:\Users\Bryan Cc\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\o
 C:\Users\Bryan Cc\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\obj\Debug\net5.0\ref\DuqueVillalba.DinoxTurno.Api.dll
 C:\Users\Bryan Cc\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Api.pdb
 C:\Users\Bryan Cc\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Api.genruntimeconfig.cache
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\bin\Debug\net5.0\DuqueVillalba.DinoxTurno.Api.exe
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\bin\Debug\net5.0\DuqueVillalba.DinoxTurno.Api.deps.json
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\bin\Debug\net5.0\DuqueVillalba.DinoxTurno.Api.runtimeconfig.json
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\bin\Debug\net5.0\DuqueVillalba.DinoxTurno.Api.runtimeconfig.dev.json
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\bin\Debug\net5.0\DuqueVillalba.DinoxTurno.Api.dll
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\bin\Debug\net5.0\ref\DuqueVillalba.DinoxTurno.Api.dll
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\bin\Debug\net5.0\DuqueVillalba.DinoxTurno.Api.pdb
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\bin\Debug\net5.0\DuqueVillalba.DinoxTurno.Core.dll
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\bin\Debug\net5.0\DuqueVillalba.DinoxTurno.Core.pdb
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Api.csproj.AssemblyReference.cache
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Api.AssemblyInfoInputs.cache
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Api.AssemblyInfo.cs
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Api.csproj.CoreCompileInputs.cache
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\obj\Debug\net5.0\staticwebassets\DuqueVillalba.DinoxTurno.Api.StaticWebAssets.Manifest.cache
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\obj\Debug\net5.0\staticwebassets\DuqueVillalba.DinoxTurno.Api.StaticWebAssets.xml
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\obj\Debug\net5.0\scopedcss\bundle\DuqueVillalba.DinoxTurno.Api.styles.css
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Api.RazorTargetAssemblyInfo.cache
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Api.csproj.CopyComplete
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Api.dll
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\obj\Debug\net5.0\ref\DuqueVillalba.DinoxTurno.Api.dll
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Api.pdb
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Api.genruntimeconfig.cache
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Api\bin\Debug\net5.0\Newtonsoft.Json.dll

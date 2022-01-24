@@ -21,3 +21,15 @@ C:\Users\Bryan Cc\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Core\
 C:\Users\Bryan Cc\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Core\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Core.dll
 C:\Users\Bryan Cc\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Core\obj\Debug\net5.0\ref\DuqueVillalba.DinoxTurno.Core.dll
 C:\Users\Bryan Cc\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Core\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Core.pdb
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Core\bin\Debug\net5.0\DuqueVillalba.DinoxTurno.Core.deps.json
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Core\bin\Debug\net5.0\DuqueVillalba.DinoxTurno.Core.dll
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Core\bin\Debug\net5.0\ref\DuqueVillalba.DinoxTurno.Core.dll
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Core\bin\Debug\net5.0\DuqueVillalba.DinoxTurno.Core.pdb
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Core\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Core.csproj.AssemblyReference.cache
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Core\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Core\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Core.AssemblyInfoInputs.cache
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Core\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Core.AssemblyInfo.cs
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Core\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Core.csproj.CoreCompileInputs.cache
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Core\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Core.dll
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Core\obj\Debug\net5.0\ref\DuqueVillalba.DinoxTurno.Core.dll
+C:\Users\NestorJulioCalderonR\Source\Repos\DinoxTurno-Backend\DuqueVillalba.DinoxTurno.Core\obj\Debug\net5.0\DuqueVillalba.DinoxTurno.Core.pdb

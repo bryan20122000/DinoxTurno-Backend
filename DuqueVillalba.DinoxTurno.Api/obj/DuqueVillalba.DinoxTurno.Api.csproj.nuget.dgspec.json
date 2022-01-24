@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bryan Cc\\Source\\Repos\\DinoxTurno-Backend\\DuqueVillalba.DinoxTurno.Api\\DuqueVillalba.DinoxTurno.Api.csproj": {}
+    "C:\\Users\\NestorJulioCalderonR\\Source\\Repos\\DinoxTurno-Backend\\DuqueVillalba.DinoxTurno.Api\\DuqueVillalba.DinoxTurno.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bryan Cc\\Source\\Repos\\DinoxTurno-Backend\\DuqueVillalba.DinoxTurno.Api\\DuqueVillalba.DinoxTurno.Api.csproj": {
+    "C:\\Users\\NestorJulioCalderonR\\Source\\Repos\\DinoxTurno-Backend\\DuqueVillalba.DinoxTurno.Api\\DuqueVillalba.DinoxTurno.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bryan Cc\\Source\\Repos\\DinoxTurno-Backend\\DuqueVillalba.DinoxTurno.Api\\DuqueVillalba.DinoxTurno.Api.csproj",
+        "projectUniqueName": "C:\\Users\\NestorJulioCalderonR\\Source\\Repos\\DinoxTurno-Backend\\DuqueVillalba.DinoxTurno.Api\\DuqueVillalba.DinoxTurno.Api.csproj",
         "projectName": "DuqueVillalba.DinoxTurno.Api",
-        "projectPath": "C:\\Users\\Bryan Cc\\Source\\Repos\\DinoxTurno-Backend\\DuqueVillalba.DinoxTurno.Api\\DuqueVillalba.DinoxTurno.Api.csproj",
-        "packagesPath": "C:\\Users\\Bryan Cc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bryan Cc\\Source\\Repos\\DinoxTurno-Backend\\DuqueVillalba.DinoxTurno.Api\\obj\\",
+        "projectPath": "C:\\Users\\NestorJulioCalderonR\\Source\\Repos\\DinoxTurno-Backend\\DuqueVillalba.DinoxTurno.Api\\DuqueVillalba.DinoxTurno.Api.csproj",
+        "packagesPath": "C:\\Users\\NestorJulioCalderonR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NestorJulioCalderonR\\Source\\Repos\\DinoxTurno-Backend\\DuqueVillalba.DinoxTurno.Api\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Bryan Cc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\NestorJulioCalderonR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -28,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Bryan Cc\\Source\\Repos\\DinoxTurno-Backend\\DuqueVillalba.DinoxTurno.Core\\DuqueVillalba.DinoxTurno.Core.csproj": {
-                "projectPath": "C:\\Users\\Bryan Cc\\Source\\Repos\\DinoxTurno-Backend\\DuqueVillalba.DinoxTurno.Core\\DuqueVillalba.DinoxTurno.Core.csproj"
+              "C:\\Users\\NestorJulioCalderonR\\Source\\Repos\\DinoxTurno-Backend\\DuqueVillalba.DinoxTurno.Core\\DuqueVillalba.DinoxTurno.Core.csproj": {
+                "projectPath": "C:\\Users\\NestorJulioCalderonR\\Source\\Repos\\DinoxTurno-Backend\\DuqueVillalba.DinoxTurno.Core\\DuqueVillalba.DinoxTurno.Core.csproj"
               }
             }
           }
@@ -44,6 +48,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
@@ -67,22 +79,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Bryan Cc\\Source\\Repos\\DinoxTurno-Backend\\DuqueVillalba.DinoxTurno.Core\\DuqueVillalba.DinoxTurno.Core.csproj": {
+    "C:\\Users\\NestorJulioCalderonR\\Source\\Repos\\DinoxTurno-Backend\\DuqueVillalba.DinoxTurno.Core\\DuqueVillalba.DinoxTurno.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bryan Cc\\Source\\Repos\\DinoxTurno-Backend\\DuqueVillalba.DinoxTurno.Core\\DuqueVillalba.DinoxTurno.Core.csproj",
+        "projectUniqueName": "C:\\Users\\NestorJulioCalderonR\\Source\\Repos\\DinoxTurno-Backend\\DuqueVillalba.DinoxTurno.Core\\DuqueVillalba.DinoxTurno.Core.csproj",
         "projectName": "DuqueVillalba.DinoxTurno.Core",
-        "projectPath": "C:\\Users\\Bryan Cc\\Source\\Repos\\DinoxTurno-Backend\\DuqueVillalba.DinoxTurno.Core\\DuqueVillalba.DinoxTurno.Core.csproj",
-        "packagesPath": "C:\\Users\\Bryan Cc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bryan Cc\\Source\\Repos\\DinoxTurno-Backend\\DuqueVillalba.DinoxTurno.Core\\obj\\",
+        "projectPath": "C:\\Users\\NestorJulioCalderonR\\Source\\Repos\\DinoxTurno-Backend\\DuqueVillalba.DinoxTurno.Core\\DuqueVillalba.DinoxTurno.Core.csproj",
+        "packagesPath": "C:\\Users\\NestorJulioCalderonR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NestorJulioCalderonR\\Source\\Repos\\DinoxTurno-Backend\\DuqueVillalba.DinoxTurno.Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Bryan Cc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\NestorJulioCalderonR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -121,7 +137,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

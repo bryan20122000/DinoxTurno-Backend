@@ -10,5 +10,6 @@ namespace DuqueVillalba.DinoxTurno.Core.Dto
     {
         public string user { get; set; }
         public string password { get; set; }
+
     }
 }
