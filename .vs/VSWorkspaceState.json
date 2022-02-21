@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DuqueVillalba.DinoxTurno.Infrastructure"
   ],
-  "SelectedNode": "\\DuqueVillalba.DinoxTurno.sln",
+  "SelectedNode": "\\DuqueVillalba.DinoxTurno.Infrastructure\\DuqueVillalba.DinoxTurno.Infrastructure.csproj",
   "PreviewInSolutionExplorer": false
 }

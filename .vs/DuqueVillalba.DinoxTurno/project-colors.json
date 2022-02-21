@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9807d71b-3ad6-4092-aa05-a2b761cec96a": {
+      "ProjectGuid": "9807d71b-3ad6-4092-aa05-a2b761cec96a",
+      "DisplayName": "DuqueVillalba.DinoxTurno.Api",
+      "ColorIndex": 0
+    },
+    "f77099fa-a07a-48a5-b904-84cf34da3ce4": {
+      "ProjectGuid": "f77099fa-a07a-48a5-b904-84cf34da3ce4",
+      "DisplayName": "DuqueVillalba.DinoxTurno.Infrastructure",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

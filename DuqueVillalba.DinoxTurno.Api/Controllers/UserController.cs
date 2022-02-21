@@ -1,4 +1,6 @@
 ﻿using DuqueVillalba.DinoxTurno.Core.Dto;
+using DuqueVillalba.DinoxTurno.Core.Entities;
+using DuqueVillalba.DinoxTurno.Core.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
@@ -21,9 +23,12 @@ namespace DuqueVillalba.DinoxTurno.Api.Controllers
     {
         private readonly IConfiguration _configuration;
 
-        public UserController(IConfiguration configuration)
+        private readonly IUsuarioRepository usuarioRepository;
+
+        public UserController(IConfiguration configuration, IUsuarioRepository _usuarioRepository)
         {
             _configuration = configuration;
+            usuarioRepository = _usuarioRepository;
         }
 
         [HttpPost]
@@ -63,14 +68,18 @@ namespace DuqueVillalba.DinoxTurno.Api.Controllers
             return tokenHandler.WriteToken(createdToken);
         }
 
-
-
         [HttpGet]
         public string Login()
         {
             return "Ok ";
         }
 
+        [HttpGet]
+        public async Task<IActionResult> GetAll()
+        {
+            var users = await usuarioRepository.GetAll();
+            return Ok(users);
+        }
 
     }
 }

@@ -8,25 +8,20 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\NestorJulioCalderonR\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\002641661\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NestorJulioCalderonR\\Source\\Repos\\DinoxTurno-Backend\\DuqueVillalba.DinoxTurno.Core\\DuqueVillalba.DinoxTurno.Core.csproj",
+      "projectUniqueName": "C:\\Users\\002641661\\Source\\Repos\\DinoxTurno-Backend\\DuqueVillalba.DinoxTurno.Core\\DuqueVillalba.DinoxTurno.Core.csproj",
       "projectName": "DuqueVillalba.DinoxTurno.Core",
-      "projectPath": "C:\\Users\\NestorJulioCalderonR\\Source\\Repos\\DinoxTurno-Backend\\DuqueVillalba.DinoxTurno.Core\\DuqueVillalba.DinoxTurno.Core.csproj",
-      "packagesPath": "C:\\Users\\NestorJulioCalderonR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NestorJulioCalderonR\\Source\\Repos\\DinoxTurno-Backend\\DuqueVillalba.DinoxTurno.Core\\obj\\",
+      "projectPath": "C:\\Users\\002641661\\Source\\Repos\\DinoxTurno-Backend\\DuqueVillalba.DinoxTurno.Core\\DuqueVillalba.DinoxTurno.Core.csproj",
+      "packagesPath": "C:\\Users\\002641661\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\002641661\\Source\\Repos\\DinoxTurno-Backend\\DuqueVillalba.DinoxTurno.Core\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\NestorJulioCalderonR\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\002641661\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -65,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
