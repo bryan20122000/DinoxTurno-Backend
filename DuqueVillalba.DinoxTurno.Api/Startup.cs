@@ -1,6 +1,7 @@
 using DuqueVillalba.DinoxTurno.Core.Interfaces;
 using DuqueVillalba.DinoxTurno.Infrastructure.Data;
 using DuqueVillalba.DinoxTurno.Infrastructure.Repositories;
+using FluentValidation.AspNetCore;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -33,6 +34,12 @@ namespace DuqueVillalba.DinoxTurno.Api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddControllers().AddNewtonsoftJson(options =>
+            {
+                options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;
+            });
+
+            services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
@@ -45,9 +52,17 @@ namespace DuqueVillalba.DinoxTurno.Api
             services.AddTransient<IUsuarioRepository, UsuarioRepository>();
 
             MiddlewareAuth(services);
+
+            services.AddMvc(options =>
+            {
+
+            }).AddFluentValidation(options => {
+                options.RegisterValidatorsFromAssemblies(AppDomain.CurrentDomain.GetAssemblies());
+            });
         }
 
-        void MiddlewareAuth(IServiceCollection services) {
+        void MiddlewareAuth(IServiceCollection services)
+        {
             var key = Encoding.ASCII.GetBytes(Configuration.GetValue<string>("SecretKey"));
 
             services.AddAuthentication(x =>

@@ -1,4 +1,5 @@
-﻿using DuqueVillalba.DinoxTurno.Core.Dto;
+﻿using AutoMapper;
+using DuqueVillalba.DinoxTurno.Core.Dto;
 using DuqueVillalba.DinoxTurno.Core.Entities;
 using DuqueVillalba.DinoxTurno.Core.Interfaces;
 using Microsoft.AspNetCore.Mvc;
@@ -21,14 +22,18 @@ namespace DuqueVillalba.DinoxTurno.Api.Controllers
     [ApiController]
     public class UserController : ControllerBase
     {
-        private readonly IConfiguration _configuration;
+        private readonly IConfiguration configuration;
 
         private readonly IUsuarioRepository usuarioRepository;
 
-        public UserController(IConfiguration configuration, IUsuarioRepository _usuarioRepository)
+        private readonly IMapper mapper;
+
+
+        public UserController(IConfiguration _configuration, IUsuarioRepository _usuarioRepository, IMapper _mapper)
         {
-            _configuration = configuration;
+            configuration = _configuration;
             usuarioRepository = _usuarioRepository;
+            mapper = _mapper;
         }
 
         [HttpPost]
@@ -45,7 +50,7 @@ namespace DuqueVillalba.DinoxTurno.Api.Controllers
             };
 
             // Leemos el secret_key desde nuestro appseting
-            var secretKey = _configuration.GetValue<string>("SecretKey");
+            var secretKey = configuration.GetValue<string>("SecretKey");
             var key = Encoding.ASCII.GetBytes(secretKey);
 
             // Creamos los claims (pertenencias, características) del usuario
@@ -77,6 +82,7 @@ namespace DuqueVillalba.DinoxTurno.Api.Controllers
         [HttpGet]
         public async Task<IActionResult> GetAll()
         {
+            // var postDto 
             var users = await usuarioRepository.GetAll();
             return Ok(users);
         }
